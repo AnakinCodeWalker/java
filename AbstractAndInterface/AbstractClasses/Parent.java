@@ -3,6 +3,7 @@ Java does not support multiple inheritance as if a class is inheriting 2 or more
  and both of them have the same method,
  and now base class is trying to access a method it will get confused ki kis class ka method access kare?
  */
+
 /*
 Abstract classes will give u some parent class hat tell us what to do
 and not how to do, fill the things as you want.
